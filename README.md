@@ -1,10 +1,9 @@
 ### Hi there 👋 
-## <div align=center> <img width="50%" src=https://github.com/youngtboy/youngtboy/blob/main/assets/avatar.png> &nbsp; I'm YoungT</div>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/youngtboy)
+## <div align=center> I'm YoungT</div>
 
 Welcome to my Github page! I am YoungT and I have finished my master degree at the Dalian University of Technology!  
 
-<img align="right" alt="img" src="https://github.com/youngtboy/youngtboy/blob/main/assets/avatar.png"/>
+<img align="right" alt="img" src="https://github.com/youngtboy/youngtboy/blob/main/assets/avatar.png" width="25%" height="auto"/>
 
 #### 🌱 Things I am currently working on: 
 - Build a large vision model
