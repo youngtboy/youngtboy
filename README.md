@@ -11,5 +11,5 @@ Welcome to my Github page! I am YoungT and I have finished my master degree at t
 - Distillation for middle or small vision model
 
 #### :muscle: Things I am challenging myself with:
-- Writing technical articles at [`知乎`](https://www.zhihu.com/people/young-75-23)
+- Writing technical articles at [`知乎`](https://www.zhihu.com/people/young-75-23/posts)
 - Keep reading paper and coding
