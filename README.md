@@ -6,8 +6,8 @@ Welcome to my Github page! I am YoungT. Now I work as a deep learning algorithm 
 <img align="right" alt="img" src="https://github.com/youngtboy/youngtboy/blob/main/assets/avatar.png" width="25%" height="auto"/>
 
 #### 🌱 Things I am currently working on: 
-- Build a large vision model
-- Self-supervised pre-training for vision model
+- LVM
+- Self-supervised pre-training
 - Visual Tuning
 
 #### :muscle: Things I am challenging myself with:
