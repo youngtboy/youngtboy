@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### <div align=center> I'm YoungT &nbsp; [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/youngtboy)</div>
 
-Welcome to my Github page! I am YoungT. Now I work as a deep learning algorithm researcher. 
+Welcome to my Github page! I am YoungT.
 
 <img align="right" alt="img" src="https://github.com/youngtboy/youngtboy/blob/main/assets/avatar.png" width="25%" height="auto"/>
 
